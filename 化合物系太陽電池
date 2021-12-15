@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<style>
+p1 {
+    font-size: 1.275em;
+}
+p1 {
+    font-family: "", Times, serif;
+}
+p2 {
+    font-size: 0.875em;
+}
+p3 {
+    font-size: 0.875em;
+}
+p3.thick {
+    font-weight: bold;
+}
+</style>
+<body>
+
+<h1></h1></div>
+<p></p>
+
+<img src="http://"alt=""width=""height=""/>
+<img src="https://pbs.twimg.com/media/FCH-j7cVcAAqbzH?format=jpg&name=900x900" alt="" loading="lazy" width="1200" height="675" srcset="https://pbs.twimg.com/media/FCH-j7cVcAAqbzH?format=jpg&name=900x900" sizes="(max-width: 1200px) 100vw, 1200px"><br>
+私たちは、太陽光発電をより多く普及するにはどうするべきなのか、太陽光発電の問題点について調べました。また、ソーラーパネルが電力をどのように生み出すのか。や、どのような素材なのかを調べ、最終的には自分たちでソーラーパネルの作成を試みました。<br>
+<div style="border: solid;"> 
+目次<br>
+<a href="#1">・4種類のシリコン系太陽電池</a><br>
+<a href="#2">・2種類の化合物系太陽電池</a><br>
+<a href="#3">・3種類の有機系太陽電池</a><br>
+<a href="#4">・太陽光発電による長所と短所</a><br>
+<a href="#5">・ソーラーパネルを作ってみよう！</a><br>
+</div>
+</div>
+<br>
+<br>
+<h2 id="1">シリコン系太陽電池</h2><b></b>
+
+<p1>　<a href="https://www.homepage-tukurikata.com/hp/link.html">単結晶シリコン太陽電池</a></p1><br>
+
+
+<p1>　<a href="https://tetsuo2002s.github.io/ouyoubuturi/">多結晶シリコン太陽電池</a></p1><br>
+
+
+<p1>　<a href="https://tetsuo2002s.github.io/ouyoubuturi/">多接合太陽電池</a></p1><br>
+
+
+
+<p1>　<a href="https://tetsuo2002s.github.io/ouyoubuturi/">薄膜シリコン太陽電池</a></p1><br>
+
+
+
+<h2 id="2">化合物系太陽電池</h2><b></b>
+
+<p1>　<a href="https://tetsuo2002s.github.io/ouyoubuturi/">化合物系太陽電池</a></p1><br>
+
+<h2 id="3">有機系太陽電池</h2><b></b>
+
+<p1>　<a href="https://tetsuo2002s.github.io/ouyoubuturi/">有機系太陽電池</a></p1><br>
+
+
+
+<h2 id="4">太陽光発電による長所と短所</h2><b></b><br>
+
+<br><br>
+
+<h2 id="5">ソーラーパネルを作ってみよう！</h2><b></b><br>
+<br><br>
+
+
+</body>
+</html>
